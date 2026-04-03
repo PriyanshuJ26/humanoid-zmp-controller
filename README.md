@@ -133,5 +133,4 @@ This project is built upon:
 
 ## 📄 License
 
-MIT License
-=======
+MIT License — see `LICENSE`
