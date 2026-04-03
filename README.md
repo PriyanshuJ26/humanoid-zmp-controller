@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Humanoid ZMP Controller
 
 Humanoid robot CoM tracking and ZMP-constrained control using predictive PID and LQR-based feedback for stable locomotion.
@@ -29,7 +28,7 @@ humanoid-zmp-controller/
 ├── docs/
 │   ├── bouhajar2015_predictive_pid.pdf
 │   ├── smaldone2022_mpc_walking.pdf
-│   └── holy_grail.pdf   # Final report (my work)
+│   └── holy_grail.pdf   # Final report 
 │
 ├── results/
 │   ├── metrics/
