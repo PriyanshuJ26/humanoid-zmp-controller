@@ -135,6 +135,3 @@ This project is built upon:
 
 MIT License
 =======
-# humanoid-zmp-controller
-Control framework for humanoid robots implementing Center of Mass (CoM) trajectory tracking with Zero Moment Point (ZMP) stability constraints using predictive PID and LQR-based control, validated through simulation.
->>>>>>> 2da5d5d59b23abc530f437f8d9bf1a779590d9be
